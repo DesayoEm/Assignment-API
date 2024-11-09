@@ -1,0 +1,23 @@
+2024-11-09 08:06:12,917 - INFO - GET / took 0.0 seconds
+2024-11-09 08:06:13,150 - INFO - GET /favicon.ico took 0.0 seconds
+2024-11-09 08:06:21,515 - INFO - GET /docs took 0.0 seconds
+2024-11-09 08:06:21,804 - INFO - GET /openapi.json took 0.0 seconds
+2024-11-09 08:07:21,235 - INFO - POST /signup took 0.0 seconds
+2024-11-09 08:08:03,565 - INFO - POST /signup took 0.0 seconds
+2024-11-09 08:10:05,652 - INFO - POST /signup took 0.0 seconds
+2024-11-09 08:11:23,249 - INFO - POST /signup took 0.0 seconds
+2024-11-09 08:12:02,103 - INFO - GET /docs took 0.0 seconds
+2024-11-09 08:12:02,432 - INFO - GET /openapi.json took 0.0 seconds
+2024-11-09 08:18:52,499 - INFO - GET /docs took 1378 microseconds
+2024-11-09 08:18:52,712 - INFO - GET /openapi.json took 16036 microseconds
+2024-11-09 08:19:19,215 - INFO - POST /signup took 19554 microseconds
+2024-11-09 08:19:59,928 - INFO - POST /signup took 17859 microseconds
+2024-11-09 08:25:06,717 - INFO - POST /signup took 45893300
+2024-11-09 08:27:35,766 - INFO - GET /docs took 10 s
+2024-11-09 08:27:36,034 - INFO - GET /openapi.json took 139 s
+2024-11-09 08:30:50,307 - INFO - GET /docs took 0 milliseconds
+2024-11-09 08:30:50,587 - INFO - GET /openapi.json took 13 milliseconds
+2024-11-09 08:31:05,076 - INFO - POST /signup took 30 milliseconds
+2024-11-09 08:44:37,881 - INFO - GET /docs took 0 seconds and 13 milliseconds
+2024-11-09 08:44:38,195 - INFO - GET /openapi.json took 0 seconds and 202 milliseconds
+2024-11-09 08:44:52,104 - INFO - POST /signup took 0 seconds and 231 milliseconds

@@ -1,0 +1,14 @@
+Create a fastapi app exposing an only one endpoint to create users with the following data:
+First Name
+Last Name
+Age
+Email
+Height
+
+
+Notes:
+Make sure to use the right payload content type-DONE
+Use the appropriate status codes-DONE
+Use in-memory storage to store responses-DONE
+Add a CORS middleware to allow only http:localhost:8000 (your localhost origin)-DONE Purrr
+Add a logger middleware to print to the console the time taken for a request to complete.DONE
