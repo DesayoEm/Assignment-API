@@ -8,7 +8,7 @@ def load_file():
     except FileNotFoundError:
         return {}
 
-def save_file(users):
+def save_data_in_file(users):
     with open('data.json', 'w', encoding='utf-8') as file:
         json.dump(users, file, indent=4)
 
