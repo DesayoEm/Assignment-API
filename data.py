@@ -1,4 +1,4 @@
-{
+users = {
     "a3fdd": {
         "first_name": "Silver",
         "last_name": "Kincaid",
@@ -12,12 +12,5 @@
         "age": 25,
         "email": "alabaeka@yahoo.com",
         "height": 162
-    },
-    "ac1aa": {
-        "first_name": "Ade",
-        "last_name": "Love",
-        "age": 22,
-        "email": "adel@gmail.com",
-        "height": 150
     }
 }
